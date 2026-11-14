@@ -1,0 +1,25 @@
+{
+    "format_version": "0.0.1",
+    "name": "msc",
+    "description": "",
+    "permission_level": "admin",
+    "requires_cheats": true,
+    "args": [
+        {
+            "name": "subcommand",
+            "options": ["rs"],
+            "type": "enum"
+        }
+    ],
+    "args1": [
+        {
+            "name": "subcommand",
+            "options": ["iw"],
+            "type": "enum"
+        },
+        {
+            "name": "path",
+            "type": "str"
+        }
+    ]
+}
