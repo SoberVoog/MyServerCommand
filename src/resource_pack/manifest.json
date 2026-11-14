@@ -1,0 +1,29 @@
+{
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "d66f2117-c79a-4bb0-b2df-109672650465",
+      "version": [
+        0,
+        0,
+        2
+      ]
+    }
+  ],
+  "header": {
+    "uuid": "525334fa-739e-4087-94ec-9062320836b7",
+    "version": [
+      0,
+      0,
+      2
+    ],
+    "description": "",
+    "min_engine_version": [
+      1,
+      18,
+      0
+    ],
+    "name": "MyServerCommand"
+  },
+  "format_version": 2
+}
